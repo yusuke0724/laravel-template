@@ -1,0 +1,10 @@
+{
+  "path": {
+    "id": 1,
+    "status": "success",
+    "body": {
+      "title": "title",
+      "content": "content"
+    }
+  }
+}
