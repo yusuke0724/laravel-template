@@ -15,7 +15,7 @@ docker-compose up -d
 docker exec -it laravel bash
 cd app
 composer install
-cp .env.local .env
+cp .env.example .env
 php artisan migrate
 ```
 
